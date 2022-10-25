@@ -1,8 +1,8 @@
-#QUICK GO WEB SERVER
+# QUICK GO WEB SERVER
 
 
 Quick GO API file Generators.
 
-##STEPS
+## STEPS
 - clone Repository 
-- run
+- run runner.sh
