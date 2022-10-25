@@ -1,7 +1,7 @@
 # QUICK GO WEB SERVER
 
 
-Quick GO API file Generators.
+Quick GO Web server file Generator.
 
 ## STEPS
 - clone Repository 
